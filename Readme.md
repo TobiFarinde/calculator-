@@ -1,5 +1,5 @@
 # demo
 
-Building a calculator using javascrip
+Building a calculator using javascript
 
 
